@@ -1,6 +1,6 @@
-### Fonts:
+### Phaser:
+Phaser is a fast, free and fun open source framework for creating browser games with Canvas and WebGL.
 
-https://www.dafont.com/
+Official website: https://phaser.io
 
-- [x] Public domain / GPL / OFL
-- [x] 100% Free
+Live Demo: mc-game.aliyev.dev
