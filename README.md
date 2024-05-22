@@ -3,4 +3,7 @@ Phaser is a fast, free and fun open source framework for creating browser games 
 
 Official website: https://phaser.io
 
-Live Demo: mc-game.aliyev.dev
+Run project:
+```npm install```
+
+With VS Code Editor open project and Go Live
