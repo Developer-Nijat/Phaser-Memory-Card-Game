@@ -16,7 +16,7 @@ class GameScene extends Phaser.Scene {
     }
 
     this.load.audio("card", "assets/sounds/card.mp3");
-    this.load.audio("theme", "assets/sounds/theme.wav");
+    this.load.audio("theme", "assets/sounds/theme.mp3");
     this.load.audio("complete", "assets/sounds/complete.wav");
     this.load.audio("success", "assets/sounds/success.ogg");
     this.load.audio("timeout", "assets/sounds/timeout.wav");
