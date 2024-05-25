@@ -8,3 +8,5 @@ Run project:
 ```npm install```
 
 With VS Code Editor open project and Go Live
+
+Live demo: [https:](https://mc-game.aliyev.dev/)
